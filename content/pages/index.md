@@ -77,5 +77,5 @@ sections:
     has_background: true
     background_color: gray
 layout: advanced
-title: Jason
+title: Jason Gray
 ---
